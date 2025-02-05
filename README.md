@@ -1,1 +1,1 @@
-# ssashayurchenko.github.io
+# travel-journal
