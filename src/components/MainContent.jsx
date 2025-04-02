@@ -1,4 +1,4 @@
-import locations from "../data.json";
+import { locations } from "../data.json";
 
 export default function MainContent() {
   return (
